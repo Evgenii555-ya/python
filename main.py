@@ -11,6 +11,6 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('222')
+    print_hi('122121')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
